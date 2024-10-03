@@ -1,0 +1,2 @@
+{:aliases {:run
+           {:main-opts ["-m" "app.main"]}}}
